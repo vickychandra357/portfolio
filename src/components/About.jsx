@@ -11,11 +11,16 @@ function About() {
                     border-gray-500'>About</p>
                 </div>
                 <p className='text-xl mt-20'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis, voluptates iusto odio in dicta sed rerum voluptatem rem voluptatibus, sequi adipisci vero sint dolores pariatur quo! Reprehenderit, quidem adipisci culpa neque vitae maiores saepe quaerat inventore sequi rem, nisi, aliquam distinctio cupiditate id vel dolorem officiis recusandae! Quibusdam, ipsum voluptates?
-                </p>
+                Building responsive and visually appealing web pages.
+                Converting design wireframes into code accurately.
+                Writing clean, efficient HTML, CSS and JavaScript code.
+                Use frameworks like React and BootStrap for development.
+                    </p>
                 <br/>
                 <p className='text-xl'>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, molestiae quaerat? Magni, obcaecati odio? Velit nesciunt saepe illo repellat provident assumenda minus sequi in delectus repellendus obcaecati quam sint id, porro rem numquam voluptatum iusto sapiente veritatis cumque ut, nihil ipsam. Nostrum debitis obcaecati architecto veniam nesciunt eos, necessitatibus officia.
+                I ensure the functionality and quality of PCB used in electronics devices.
+                I conducted manual and API testing using Swift 3.0 with defects often related to code deadlocks caused by electronic component issues.
+                I worked on telecom projects (FSM/FRM 3.2) involving Python code on telecom modules.    
                 </p>
             </div>
         </div>
