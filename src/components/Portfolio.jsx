@@ -11,7 +11,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: portf,
-      demo: 'https://65fb89eb4405a84b71ae5a48--symphonious-capybara-b4b963.netlify.app/',
+      demo: 'https://symphonious-capybara-b4b963.netlify.app/',
       code: "https://github.com/vickychandra357/portfolio",
     },
     {
