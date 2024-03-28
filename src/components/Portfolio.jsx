@@ -1,5 +1,5 @@
 import React from "react";
-import portf from "../assets/portfolio/portfolio.png";
+import portf from "../assets/portfolio/portfolios.png";
 import socialMediaApp from "../assets/portfolio/socialMediaApp.png";
 import cryptotracker from "../assets/portfolio/crypto tracker.png";
 import podcast from "../assets/portfolio/podcast.png";
