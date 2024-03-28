@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/heroImage.jpg";
+import HeroImage from "../assets/logoV.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -15,7 +15,8 @@ const Home = () => {
                         I'm Frontend Web Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I have a 1 year of experience building and designing web applications.
+                        I have a total 2 years and 7 months experience . 1 year of experience in building and designing web applications and 1 year and 7 months experience in 
+                        H/w and S/w testing and repair of BTS modules.
                         Currently, I love to work on web application using
                         technologies like
                         React, JavaScript, Tailwind and HTML.
